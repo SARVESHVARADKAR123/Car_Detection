@@ -9,6 +9,6 @@ __pycache__/
 *.h5
 *.hdf5
 *.pth
-*.pt
+
 *.pth.tar
 *.pth.tar.gz
