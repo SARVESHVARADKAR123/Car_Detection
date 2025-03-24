@@ -23,7 +23,10 @@ This project is a real-time detection system that identifies cars and people in 
    ```
 
 3. **Download Models**:
-   - Ensure `yolov8n.pt` and `my_model.keras` are in the project directory.
+   - [YOLOv8 Weights](https://drive.google.com/file/d/16KY0KchxGYSQjcQMfBEGZfTFM8VX2bon/view?usp=drive_link)
+   - [Custom Keras Model](https://drive.google.com/file/d/1YvIj7kHzi0OdZUoMXo8T62qcf_w3C447/view?usp=drive_link)
+   - [Pickle File of model](https://drive.google.com/file/d/1sc8MpJ3h4fY3uTtZo2mtFMpNCu_3ceiT/view?usp=drive_link)
+   - [Weights](https://drive.google.com/file/d/1eAPCJAf_tiLUknIz2lppqmSu1e6nbmO7/view?usp=drive_link)
 
 ## Usage
 
@@ -46,12 +49,9 @@ This project is a real-time detection system that identifies cars and people in 
 ## Configuration
 
 - **YOLOv8 Model**: Ensure `yolov8n.pt` is in the directory.
-- **Color Model**: Place your custom Keras model `my_model.keras` in the directory.
+- **Color Model**: Place your custom Keras model `car_color_custom_model.keras` in the directory.
 
-## Contributing
+## Google Colab
 
-Contributions are welcome! Please fork the repository and submit a pull request.
+- [Colab Notebook](https://colab.research.google.com/drive/1Sk73VhAQlBqoILHX6X1rgUo6wgshwUc4?usp=drive_link)
 
-## License
-
-This project is licensed under the MIT License.
